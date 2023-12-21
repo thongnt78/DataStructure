@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Source.cpp
+E:\CTDL\buoi9\Source.cpp(74,5): error C2084: function 'int viewS(q)' already has a body
+E:\CTDL\buoi9\Source.cpp(68,5): message : see previous definition of 'viewS'
+  Generating Code...

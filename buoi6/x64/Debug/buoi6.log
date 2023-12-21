@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Source.cpp
+  Generating Code...
+E:\CTDL\buoi6\Source.cpp(65): warning C4715: 'nodeIndex': not all control paths return a value
+  buoi6.vcxproj -> E:\CTDL\x64\Debug\buoi6.exe

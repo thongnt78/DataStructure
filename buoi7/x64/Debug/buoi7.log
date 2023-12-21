@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\CTDL\buoi7\Main.cpp(10,6): warning C4101: 'idx': unreferenced local variable
+  Source.cpp
+  Generating Code...
+E:\CTDL\buoi7\Source.cpp(145): error C4700: uninitialized local variable 'q' used

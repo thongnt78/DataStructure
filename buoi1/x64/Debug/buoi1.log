@@ -1,0 +1,6 @@
+﻿  buoi1.cpp
+  Source.cpp
+E:\CTDL\buoi1\Source.cpp(70,14): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+E:\CTDL\buoi1\Source.cpp(72): warning C4715: 'trb': not all control paths return a value
+  buoi1.vcxproj -> E:\CTDL\x64\Debug\buoi1.exe

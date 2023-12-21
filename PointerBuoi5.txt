@@ -1,0 +1,54 @@
+con trỏ với hàm:
+void swap(int *x,int *y){
+int temp=*x
+*x=*y;
+*y=temp;}
+
+int main(){
+int x=10,int y=20;
+swap(&x,&y);
+
+return 0;
+}
+
+cấu trúc sử dụng con trỏ:
+struct CL{
+int n;
+int *list;
+}; 
+
+void inputN(CL &m){
+cout<<"enter number of CL: ";
+cin>>m.n;
+}
+ 
+void inputCL(CL& m){
+m.list=new int[m.n];
+for(int i=0;i<m.n;i++){ 
+cout<<"list[<<i<<"]: ";
+cin>>xm.list[i];}
+} 
+
+void outputCL(CL m){
+for(int i=0;i<m.n;i++){
+
+cout<<m.list[i[<<"\t";
+}
+}
+
+
+tìm giá trị lớn nhất
+
+int Max(CL m){
+int idx=0;
+for(int i=1;i<m.n;i++){
+if(m.list[i]>m.list[idx]){
+idx=i;
+}
+return idx;
+}
+
+int main(){
+
+
+return 0;}

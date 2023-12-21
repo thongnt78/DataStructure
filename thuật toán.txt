@@ -1,0 +1,16 @@
+thuật toán sắp xếp(bublesort,exchangesort,sort)
+thêm
+xóa
+đảo
+tìm kiếm(phần tử trùng, trùng mấy lần)
+tìm lớn nhất(nhỏ nhất)
+kiểm tra danh sách(chẵn ,lẻ , tăng, giảm, 2 bên có bằng nhau không)
+gộp 2 danh sách, gộp chẵn lẻ
+tách 2 danh sách, tách chẵn lẻ
+xóa trùng, xóa 1 ptử
+tìm kiếm tuyến tính
+tìm kiếm nhị phân
+lớn hơn pt lớn nhất(greatermax)
+nhỏ hơn pt nhỏ nhất(greaterMin)
+số dương nhỏ nhất
+

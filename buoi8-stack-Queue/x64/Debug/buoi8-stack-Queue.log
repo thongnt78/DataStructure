@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\CTDL\buoi8-stack-Queue\Source.cpp(3,7): warning C4553: '==': result of expression not used; did you intend '='?
+E:\CTDL\buoi8-stack-Queue\Source.cpp(49,10): warning C4553: '==': result of expression not used; did you intend '='?
+E:\CTDL\buoi8-stack-Queue\Source.cpp(42): warning C4715: 'nodeIndex': not all control paths return a value
+  buoi8-stack-Queue.vcxproj -> E:\CTDL\x64\Debug\buoi8-stack-Queue.exe

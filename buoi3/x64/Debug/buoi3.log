@@ -1,0 +1,4 @@
+﻿  SourceMain.cpp
+E:\CTDL\buoi3\SourceMain.cpp(3,19): warning C4101: 'e': unreferenced local variable
+E:\CTDL\buoi3\SourceMain.cpp(3,16): warning C4101: 'o': unreferenced local variable
+  buoi3.vcxproj -> E:\CTDL\x64\Debug\buoi3.exe

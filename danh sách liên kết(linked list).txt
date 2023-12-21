@@ -1,0 +1,5 @@
+* danh sách liên kết(linked list)
+-không yêu cầu vùng nhớ liên tục
+-cấp ô nhớ khi cần thiết và link lại với nhau
+-các vùng nhớ liên tiếp nhau
+ 
